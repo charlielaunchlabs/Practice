@@ -1,0 +1,29 @@
+﻿<Properties StartupItem="Droid/Practice.Droid.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/TransButton.cs">
+    <Files>
+      <File FileName="Practice/NavCC.cs" Line="19" Column="41" />
+      <File FileName="Practice/AnimatedButton.cs" Line="51" Column="27" />
+      <File FileName="Practice/MainPage.cs" Line="30" Column="44" />
+      <File FileName="Practice/CirlcleImage.cs" Line="29" Column="22" />
+      <File FileName="Practice/HorizontalScroll.cs" Line="20" Column="197" />
+      <File FileName="Practice/VerticalScroll.cs" Line="70" Column="56" />
+      <File FileName="iOS/Main.cs" Line="17" Column="1" />
+      <File FileName="Droid/CustomButton.cs" Line="24" Column="2" />
+      <File FileName="Practice/SecondNav.cs" Line="12" Column="48" />
+      <File FileName="Droid/MainActivity.cs" Line="24" Column="4" />
+      <File FileName="Practice/MasterPage.cs" Line="26" Column="6" />
+      <File FileName="Practice/CCircle.cs" Line="21" Column="30" />
+      <File FileName="Practice/CCButton.cs" Line="17" Column="1" />
+      <File FileName="Droid/Resources/values/styles.xml" Line="29" Column="1" />
+      <File FileName="Droid/packages.config" Line="1" Column="1" />
+      <File FileName="Droid/Resources/drawable/Layout.axml" Line="7" Column="29" />
+      <File FileName="Droid/TransButton.cs" Line="26" Column="3" />
+      <File FileName="Practice/TransparentButton.cs" Line="14" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Practice.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.Practice.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.6354EB67-23AE-4010-822D-FC8F03D1E865" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
